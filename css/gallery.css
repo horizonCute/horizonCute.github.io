@@ -24,8 +24,9 @@
   overflow: hidden;
   position: relative;
   background: center center no-repeat;
-  -webkit-background-size: cover;
-  background-size: cover;
+  -webkit-background-size: contain;
+  background-size: contain;
+  background-image: url("https://imgsa.baidu.com/forum/w%3D580/sign=b3a631ed1d3853438ccf8729a312b01f/5abb726034a85edf0b3d3ca244540923dc54750d.jpg") !important;
 }
 
 .gallery-cover-box .gallery-cover-img {
@@ -37,10 +38,10 @@
   transform: translate(-50%,-50%);
 }
 .gallery-item .gallery-name{
-  font-size: 14px;
+  font-size: 17px;
   line-height: 24px;
   text-align: center;
-  color: #666;
+  color: teal;
   margin: 0;
 }
 

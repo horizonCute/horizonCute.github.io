@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Java基础</title>
-    <url>/2020/08/27/blog-open-source/</url>
+    <url>/2020/08/27/java/</url>
     <content><![CDATA[<h1>hello</h1><script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -22,29 +22,8 @@
             document.body.appendChild(img);
           });
       </script>]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2020/01/31/test/</url>
-    <content><![CDATA[<p>测试</p>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
+      <tags>
+        <tag>Java</tag>
+      </tags>
   </entry>
 </search>

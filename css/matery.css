@@ -416,7 +416,9 @@ header .go-back i {
 }
 
 .post-cover {
-    height: 40vh !important;
+    height: 110vh !important;
+    /* background-image: url(/medias/images/6.jpg) !important; */
+    /* 11111 */
 }
 
 .bg-cover:after {
@@ -460,7 +462,7 @@ header .go-back i {
 }
 
 .bg-cover .post-title {
-    font-size: 1.9rem;
+    font-size: 5em;
 }
 
 @-webkit-keyframes rainbow {
