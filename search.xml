@@ -26,4 +26,29 @@
         <tag>Java</tag>
       </tags>
   </entry>
+  <entry>
+    <title>思考00</title>
+    <url>/2020/02/05/si-kao-00/</url>
+    <content><![CDATA[<p style="text-indent:1em;color:teal;">今天很早就起床了，但不代表我昨天很早就睡觉，昨天我大概在1点左右睡觉，在4点半左右起床。之后就是玩游戏，看视频度过。本来是想在公主连接这款游戏玩完后就睡觉，但是由于蚊子以及自已可能不想睡的关系，一直拖拖拖到8点半左右才最终起床刷牙，准备写这一篇笔记。</p>
+<p style="text-indent:1em;color:#1aaba8;">自已想要写这篇笔记的原因是对于自已记事以来，算是无所作为的一种危机感吧！自已很明显如果以这样子的状态出去社会的话，我相信自已肯定很不适应。说到底，是自已在这之前没有利用好自已的时间(生命)，每天无所事事，就算有事情做，自已也不能处理妥当。以至于目前为止，我的知识海洋很浅，没有对自已所经历的游戏认真的思考过。所以呢，我自已想在这之后，分配好自已的时间去做有意义的事情，至少玩游戏需要明白这个游戏，看视频也要知道这个视频在说什么，做事情也要知道自已为什么要去做，对自已来说有什么利益</p>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
 </search>
