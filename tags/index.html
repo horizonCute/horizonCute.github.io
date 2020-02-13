@@ -477,10 +477,19 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
             <div class="tag-chips">
                 
                 
+                <a href="/tags/思考/" title="思考: 2">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="思考" style="background-color: #F9EBEA;">思考
+                        <span class="tag-length">2</span>
+                    </span>
+                </a>
+                
+                
                 <a href="/tags/Java/" title="Java: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="Java" style="background-color: #F9EBEA;">Java
+                            data-tagname="Java" style="background-color: #F5EEF8;">Java
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -509,7 +518,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 <script type="text/javascript">
     
 
-    $('#tag-wordcloud').jQCloud([{"text":"Java","weight":1,"link":"/tags/Java/"}], {
+    $('#tag-wordcloud').jQCloud([{"text":"思考","weight":2,"link":"/tags/思考/"},{"text":"Java","weight":1,"link":"/tags/Java/"}], {
         autoResize: true
     });
 </script>
@@ -541,7 +550,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 
             
                 &nbsp; | &nbsp;字数统计:&nbsp;
-                <span class="white-color">440</span> 字
+                <span class="white-color">1.5k</span> 字
             
 
             
@@ -697,13 +706,6 @@ $(function () {
         
 
         <!-- 背景雪花飘落特效 -->
-        
-            <script type="text/javascript">
-                var windowWidth = $(window).width();
-                if (windowWidth > 768) {
-                    document.write('<script type="text/javascript" src="/js/xuehuapiaoluo.js"><\/script>');
-                }
-            </script>
         
 
         <!-- 在线聊天工具 -->

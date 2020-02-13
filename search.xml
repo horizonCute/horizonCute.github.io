@@ -1,9 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>2020年2月14日的思考</title>
+    <url>/2020/02/14/2020-nian-2-yue-14-ri-de-si-kao/</url>
+    <content><![CDATA[<p style="text-indent:1em;color:teal;">寒假前自已心里明确在家里要好好学习，不再像之前的假期那样去浪费时间，但是在家后，这一个月以来自已有真正碰过书本，或者说集中精力去做事吗？答案是没有，在这一个月以来，自已不仅没有学习，反而手淫，熬夜，做一些没有卵用的事情去消耗自已的青春，自已的身体，自已的未来。</p>
+
+<p style="text-indent:1em;color:#1aaba8;">今天看了`丸子`的直播，说实在的，在外面靠自已生活真的不是很容易，一个人需要承担的东西实在是太多了，房贷啊，工作啊，还有一些吧！想不出来，没有实力和运气，真的一个人在社会在生活会很不舒服，其实在学校的时候也有体会到了，在学校自已真的很`浪`啊，现在没有一个好朋友，没有充分学习到一个知识，跟宿舍、班级里的人关系也很不好，感觉在班里自已的风评应该很不好吧!这样的自已明显是有意识到的，也有努力过，但是一旦给我好处，我就`软`了，又重新变回以前那样子了。</p>
+
+<p style="text-indent:1em;color:teal;">说一些自已在丸子那获得的一些`信息`吧，自已的逻辑很重要，对事情清晰明了的认知对自已会有很大的好处，不会被某些人通过`逻辑漏洞`,从而利用自已。身体、知识积累也很重要，没有好的身体，肯定没有好的逻辑去思考吧，没有知识积累也肯定不会出现一个好的逻辑吧~。认清楚自已的方向，自已需要去做什么，这件事有哪些自已不能说，不能做，做好这件事情，需要自已有好的身体、逻辑和知识积累吧~</p>
+
+<p style="text-indent:1em;color:#1aaba8;">现在给我的选择其实不多，就是成为一名程序员，学号Java，然后好去找一份工资高，待遇高，不是很辛苦的工作才是我目前的方向，学习Java看视频可以，但是需要有很好的逻辑，不要总跟着老师的思路，在之前通过视频学习Java，我明显就没有`带脑子`去看，很盲目，现在我不能学习到Java更深的知识，总是在基础周围旋转，并且确认自已需要以什么方式看视频，比如1.5倍速观看什么的，自已也需要考虑清楚真的要这样子做吗，出现问题应该如何解决，比如跟不上老师的思维，按理来说应该停下视频，进行整理什么的。还有自已学习Java的路线什么的也要清楚，找清方向对自已真的非常重要啊！！！遇到问题不要像重新来过，好好去解决当前遇到的问题，解决不了看有什么办法补救什么的，千万不要认为自已做不到，还是重来比较好什么的，真的无法解决，看能不能跳过去做其他事情，反正没办法只剩下最后一条路，`删除重来`时，才这样子做，不要一来就`删除重来`什么的，这是对自已极度不负责任的行为，很很很糟糕的，所以自已真的要对自已负责啊！</p>
+
+<p style="text-indent:1em;color:teal;">今年出现新型冠状病毒，由武汉市爆发开来，因为某些人嘴贱吧，吃蝙蝠，吃出了病毒，现在开学的时间延迟了两次，在3月9号开学，而且还不清楚是否需要继续延迟什么的，嗯，算是给了我在家的时间吧，所以自已好好规划自已的家里生活，可以不学习，但是千万不要浪费时间，去手淫什么的等等吧！</p>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+      <tags>
+        <tag>思考</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Java基础</title>
-    <url>/2020/08/27/java/</url>
-    <content><![CDATA[<h1>hello</h1><script>
+    <url>/2020/02/12/java-ji-chu/</url>
+    <content><![CDATA[<script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
             if (!el.dataset.src) { return; }
@@ -50,5 +85,8 @@
             document.body.appendChild(img);
           });
       </script>]]></content>
+      <tags>
+        <tag>思考</tag>
+      </tags>
   </entry>
 </search>
